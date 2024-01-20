@@ -54,3 +54,5 @@ For additional questions, contact me at the email provided below.
 
 - GitHub [Dusan Madjar](https://github.com/Djarma12)
 - Email madjardusan@gmail.com
+
+[Back To The Top](#nexter)
