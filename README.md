@@ -6,11 +6,11 @@ You can view the project live here: <a href="https://nexter-dusan.netlify.app" t
 
 ## 📂 Table of Contents
 
-- [Description](#description)
+- [Description](#-description)
 
-- [Technologies Used](#technologies-used)
+- [Technologies Used](#-technologies-used)
 
-- [Installations and Tests](#installations-and-tests)
+- [Installations and Tests](#-installations-and-tests)
 
 ## 📝 Description
 
