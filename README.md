@@ -1,6 +1,6 @@
 # Nexter
 
-![Nexter](imgApp-Layout.png)
+![Nexter](img/App-Layout.webp)
 
 You can view the project live here: <a href="https://nexter-dusan.netlify.app" target="_blank">Nexter</a>
 
